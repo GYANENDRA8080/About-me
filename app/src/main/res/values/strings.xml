@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">GYANENDRA SINGH</string>
+    <string name="avatar">Avatar</string>
+    <string name="yellow_star">Yellow star</string>
+      <string name="bio">My name is Gyanendra Singh,\n\n
+          \nमेरा नाम ज्ञानेन्द्र सिंह है, और मैं एक सॉफ्टवेयर डेवलपर हूँ जो वर्तमान में एक प्रोजेक्ट
+          \n"फ्री ऑनलाइन लर्निंग प्लेटफार्म" पर काम कर रहा हूँ मैने डा० राममनोहर लोहिया अवध विश्वविद्यालय, अयोध्या से
+          \nइस वर्ष 2023 की परीक्षा में बैचलर ऑफ टेक्नोलॉजी (बी.टेक.) ब्रान्च – इन्फॉर्मेशन टेक्नोलॉजी की उपाधि प्रथम श्रेणी में प्राप्त की है,
+          \nजिसमें मैने साफ्टवेयर डेवलपमेंट की विशेषज्ञता प्राप्त किया है। मेरा कार्य अनुभव सॉफ्टवेयर डेवलपमेंट और परियोजना प्रबंधन के क्षेत्र में हैं।
+          \nand I am a software developer currently
+          \nworking on a project “Free Online Learning Platform”
+          \nI have completed Bachelor of Technology (B.Tech.) from
+          \nDr. Ram Manohar Lohia Avadh University,Ayodhya
+          \nIn this year 2023 examination.
+
+          \nThe degree of Information Technology in first class,
+          \nin which I have obtained specialization in Software Development.
+          \nMy work experience is in the field of software development and
+          \nproject management.
+
+          \nCurrently we are learning Kotlin course which
+          \nwill help students enhance their skills.
+          \nfor application development, Java and Kotlin is very widely used for Mobile
+          \napp development.</string>
+    <string name="what_is_your_nick_name">what is your nick name</string>
+    <string name="done">Done</string>
+
+
+</resources>
